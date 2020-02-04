@@ -1,0 +1,11 @@
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\bin\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.exe
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\bin\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.deps.json
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\bin\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.runtimeconfig.json
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\bin\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.runtimeconfig.dev.json
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\bin\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.dll
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\bin\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.pdb
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\obj\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.csprojAssemblyReference.cache
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\obj\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.AssemblyInfoInputs.cache
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\obj\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.AssemblyInfo.cs
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\obj\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.dll
+C:\Users\oomishope\source\repos\Lab_4.1_DiceRoll\Lab_4.1_DiceRoll\obj\Debug\netcoreapp3.1\Lab_4.1_DiceRoll.pdb
